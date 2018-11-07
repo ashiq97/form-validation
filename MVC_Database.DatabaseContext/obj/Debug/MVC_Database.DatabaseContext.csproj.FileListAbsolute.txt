@@ -1,0 +1,17 @@
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\MVC_Database.DatabaseContext.dll.config
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\MVC_Database.DatabaseContext.dll
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\MVC_Database.DatabaseContext.pdb
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\EntityFramework.dll
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\MVC_Data.Models.dll
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\MVC_Data.Models.pdb
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\EntityFramework.xml
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.csprojAssemblyReference.cache
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.csproj.CoreCompileInputs.cache
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.csproj.CopyComplete
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.dll
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.pdb
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.Migrations.InitialMigration.resources
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.csproj.GenerateResource.cache
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Database.DatabaseContext\obj\Debug\MVC_Database.DatabaseContext.Migrations.addedsitetable.resources

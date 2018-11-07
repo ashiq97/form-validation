@@ -1,0 +1,6 @@
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Data.Models\bin\Debug\MVC_Data.Models.dll
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Data.Models\bin\Debug\MVC_Data.Models.pdb
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Data.Models\obj\Debug\MVC_Data.Models.csproj.CoreCompileInputs.cache
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Data.Models\obj\Debug\MVC_Data.Models.dll
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Data.Models\obj\Debug\MVC_Data.Models.pdb
+F:\After BITM\MVC_Test\MVC_Tutorial\MVC_Data.Models\obj\Debug\MVC_Data.Models.csprojAssemblyReference.cache

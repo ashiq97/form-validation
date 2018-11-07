@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MVC_Data.Models.ViewModels.EmployeeVM>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<div class="container" style="width:60%">
+    @if (Model != null)
+    {
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>DepartmentId</th>
+                    <th>DepartmentName</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.DepartmentId</td>
+                    <td>@item.DepartmentName</td>
+                    <td>@item.Address</td>
+                </tr>
+                }
+            </tbody>
+
+
+        </table>
+    }
+
+</div>

@@ -1,0 +1,38 @@
+﻿@model MVC_Data.Models.ViewModels.EmployeeVM
+
+@{
+    ViewBag.Title = "EmployeeDetail";
+}
+
+<h2>EmployeeDetail</h2>
+
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<div class="container" style="width:60%">
+    @if (Model != null)
+    {
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    
+                    <th>Name</th>
+                    <th>DepartmentName</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                
+                    <tr>
+                        <td>@Model.Name</td>
+                        <td>@Model.DepartmentName</td>
+                        <td>@Model.Address</td>
+                    </tr>
+                
+            </tbody>
+
+
+        </table>
+    }
+
+</div>
